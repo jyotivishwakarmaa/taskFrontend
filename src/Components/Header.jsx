@@ -3,7 +3,7 @@ import { FaUserCircle } from "react-icons/fa";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import axios from 'axios';
-import BackEndUrl from '../config/BackendUrl';
+import BackEndUrl from '../config/BackEndUrl';
 import Form from "react-bootstrap/Form";
 import { BsFillEmojiSmileFill } from "react-icons/bs";
 import { GiNightVision } from 'react-icons/gi';
