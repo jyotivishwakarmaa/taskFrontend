@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import BackEndUrl from "../config/BackendUrl";
+import BackEndUrl from "../config/BackEndUrl";
 import { Table } from "react-bootstrap";
 
 const TestTable = () => {

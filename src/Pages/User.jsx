@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
-import BackEndUrl from '../config/BackendUrl';
+import BackEndUrl from '../config/BackEndUrl';
 import axios from 'axios';
 
 const User = () => {

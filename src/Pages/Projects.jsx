@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 import Table from "react-bootstrap/esm/Table";
-import BackEndUrl from "../config/BackendUrl";
+import BackEndUrl from '../config/BackEndUrl';
 
 const Projects = () => {
   const [taskList, setTasklist] = useState([]);
